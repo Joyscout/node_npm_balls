@@ -1,0 +1,5 @@
+.js	JavaScript padrão (Node.js e browser)
+.mjs	ES Modules (módulos modernos)
+.cjs	CommonJS (módulos antigos)
+.ts	TypeScript (precisa compilar para JS)
+.json	Arquivos de configuração (package.json, etc)
